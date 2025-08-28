@@ -21,6 +21,6 @@
 * [Microsoft Edge JSON Dummy Data](https://microsoftedge.github.io/Demos/json-dummy-data/)
 
 ## Text Files
-* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [Bible SuperSearch](https://www.biblesupersearch.com/bible-downloads/)
+* [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [RockYou Leaked Passwords](https://github.com/danielmiessler/SecLists)
