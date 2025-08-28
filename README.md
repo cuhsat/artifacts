@@ -1,5 +1,5 @@
 # Artifacts
-[Forensic Examiner](https://forensic-examiner.eu) test files from various sources.
+Test files from various sources.
 
 ## Forensic Images
 * [NIST Computer Forensic Reference Data Sets](https://cfreds.nist.gov/all/NIST/HackingCase)
