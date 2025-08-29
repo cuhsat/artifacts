@@ -11,7 +11,7 @@ Test files from various sources.
 ## Event Logs
 * [Microsoft Developer Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
-## Entropy Sources
+## Binary Files
 * [RANDOM.ORG Random Byte Generator](https://www.random.org/bytes/)
 
 ## CSV Files
