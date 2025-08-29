@@ -20,6 +20,9 @@ Test files from various sources.
 ## JSON Files
 * [Microsoft Edge JSON Dummy Data](https://microsoftedge.github.io/Demos/json-dummy-data/)
 
+## XML Files
+* [Microsoft MSXML SDK Sample File](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms762271(v=vs.85))
+
 ## Text Files
 * [Bible SuperSearch](https://www.biblesupersearch.com/bible-downloads/)
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
