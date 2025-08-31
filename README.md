@@ -8,6 +8,9 @@ Test files from various sources.
 * [AMTSO Potentially Unwanted Application](https://www.amtso.org/feature-settings-check-potentially-unwanted-applications/)
 * [EICAR Anti-Virus Test File](https://www.eicar.org/download-anti-malware-testfile/)
 
+## Journal Logs
+* [Systemd Test Journals](https://github.com/systemd/systemd/tree/main/test/test-journals)
+
 ## Event Logs
 * [Microsoft Developer Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
